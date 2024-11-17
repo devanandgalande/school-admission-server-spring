@@ -2,7 +2,6 @@ package com.alphonsa.school_admission_server.controller;
 
 import com.alphonsa.school_admission_server.model.RequestDTO;
 import com.alphonsa.school_admission_server.service.StudentService;
-import org.jboss.jandex.Main;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

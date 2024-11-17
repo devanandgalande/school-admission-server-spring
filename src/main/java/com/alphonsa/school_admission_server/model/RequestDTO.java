@@ -1,13 +1,5 @@
 package com.alphonsa.school_admission_server.model;
 
-import com.alphonsa.school_admission_server.dao.StudentData;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.springframework.beans.BeanUtils;
-import org.springframework.util.CollectionUtils;
-import org.springframework.util.ObjectUtils;
-
-import java.util.Objects;
-
 public class RequestDTO {
     private String regNo;
     private String firstName;

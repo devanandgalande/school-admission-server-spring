@@ -1,8 +1,5 @@
 package com.alphonsa.school_admission_server.dao;
 
-import com.alphonsa.school_admission_server.model.RequestDTO;
-import org.springframework.beans.BeanUtils;
-
 import javax.persistence.*;
 
 @Entity
